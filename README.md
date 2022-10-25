@@ -3,8 +3,6 @@ Este repositorio tiene el objetivo de recompilar la creatividad que se puede log
 
 Asi que podemos esperar muchas cosas, para implementar de manera creativa a nuestras aplicaciones futuras.
 
-~~~
-vamos al codigo...
-~~~
+### vamos al codigo...
 
 ## GOOOOOOOOOOOOOOOOOOO!!!!

@@ -1,8 +1,12 @@
-# Mundo Trucos de la Web
-Este repositorio tiene el objetivo de recompilar la creatividad que se puede lograr con HTML, CSS y JavaScript y quizas algunas tecnologías mas ;).
+# Trucos de la Web
+Este repositorio tiene el objetivo de recompilar la creatividad que se puede lograr con HTML, CSS y JavaScript y quizas algunas tecnologías mas :wink:.
 
-Asi que podemos esperar muchas cosas, para implementar de manera creativa a nuestras aplicaciones futuras.
+_Asi que podemos esperar muchas cosas, para implementar de manera creativa a nuestras futuras aplicaciones._
 
-### vamos al codigo...
+- ¿Que encontramos? 
 
-## GOOOOOOOOOOOOOOOOOOO!!!!
+> Animaciones :ok_hand:
+> Loadings :ok_hand:
+> Buttons :sparkles:
+
+### _:dizzy: COME ON CODE_  `<{ `:collision:` }>` :exclamation::exclamation::exclamation::exclamation:

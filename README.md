@@ -5,8 +5,8 @@ _Asi que podemos esperar muchas cosas, para implementar de manera creativa a nue
 
 - ¿Que encontramos? 
 
-> Animaciones :ok_hand:
-> Loadings :ok_hand:
+> Animaciones :sparkles:
+> Loadings :sparkles:
 > Buttons :sparkles:
 
 ### _:dizzy: COME ON CODE_  `<{ `:collision:` }>` :exclamation::exclamation::exclamation::exclamation:
